@@ -32,6 +32,6 @@ function sayHiToGrandma(string){
   return "I can't hear you"
   lowercase.toUpperCase() === lowercase
   return "YES INDEED!"
-  lowercase = "I love you, Grandma!"
+  lowercase === "I love you, Grandma!"
   return "I love you, too"
 }
