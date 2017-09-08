@@ -17,12 +17,6 @@ function sayHiToGrandma(string){
   return string.toLowerCase()
 }
 function sayHiToGrandma(string){
-  console.log("I love you, Grandma.")
-}
-function sayHiToGrandma(string){
- var lowercase = "string"
- if(lowercase.toLowerCase() === lowercase){
+  var lowercase = "string"
+  lowercase.toLowerCase() === lowercase
   return "I can't hear you"
- }
-
-}
